@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="Br5yqc8oDrkvjOl3K1TG">
+    <mxGraphModel dx="2607" dy="2518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqKL0t2CxAQVXDpV3zge-2" target="rqKL0t2CxAQVXDpV3zge-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqKL0t2CxAQVXDpV3zge-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="437.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqKL0t2CxAQVXDpV3zge-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqKL0t2CxAQVXDpV3zge-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-2" value="Arduino Uno&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="330" width="205" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqKL0t2CxAQVXDpV3zge-3" target="rqKL0t2CxAQVXDpV3zge-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-3" value="&lt;div&gt;Temperature &amp;amp; Humidity Sensor&amp;nbsp;&lt;/div&gt;&lt;div&gt;(DHT 22)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqKL0t2CxAQVXDpV3zge-4" target="rqKL0t2CxAQVXDpV3zge-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-4" value="&lt;div&gt;12v Direct &lt;br&gt;Power Supply&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-7" value="&lt;div&gt;Gas Sensor&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqKL0t2CxAQVXDpV3zge-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="437.5" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-9" value="&lt;div&gt;Data Logging using &lt;br&gt;RFID&amp;nbsp; &lt;br&gt;(List of fruits &lt;br&gt;that to be stored)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="80" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqKL0t2CxAQVXDpV3zge-11" target="rqKL0t2CxAQVXDpV3zge-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqKL0t2CxAQVXDpV3zge-11" target="rqKL0t2CxAQVXDpV3zge-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-11" value="&lt;div&gt;Android Studio&amp;nbsp;&lt;br&gt;(ESP 32 using WIFI/Bluetooth Devices)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="-200" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-13" value="&lt;div&gt;User Commands&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-195" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-15" value="&lt;div&gt;Real time data Notifications&lt;/div&gt;&lt;div&gt;through Firebase&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-195" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="300" as="targetPoint" />
+            <mxPoint x="520" y="-130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-30" value="User Interface using Real Time Data Alerts using Firebase&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqKL0t2CxAQVXDpV3zge-35" value="Ventilation System Exhaust Fan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
